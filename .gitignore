@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#---------------------- Add by Me -------------------------------
+
+# Ambientes
+.env
+.venv/
+__pycache__/
+
+# Dados
+data/
+*.csv
+*.xlsx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
